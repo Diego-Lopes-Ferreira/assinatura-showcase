@@ -1,4 +1,4 @@
-# About Me Project
+# Assinatura Showcase
 Showcase of my work for a presentation
 
 ## Meta
